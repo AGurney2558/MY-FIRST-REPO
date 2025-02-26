@@ -1,2 +1,1 @@
-names = []
-names.append(input("Enter a name:")))
+print("hello world"))
